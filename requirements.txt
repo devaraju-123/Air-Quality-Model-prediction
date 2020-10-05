@@ -9,21 +9,21 @@ Jinja2==2.11.2
 joblib==0.17.0
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
-matplotlib @ file:///C:/ci/matplotlib-base_1597876438601/work
+matplotlib
 mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
-numpy @ file:///C:/ci/numpy_and_numpy_base_1596215850360/work
+numpy
 olefile==0.46
-pandas @ file:///C:/ci/pandas_1601558512044/work
-Pillow @ file:///C:/ci/pillow_1594298230227/work
+pandas
+Pillow
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
 requests==2.24.0
 scikit-learn==0.23.2
-scipy @ file:///C:/ci/scipy_1592916963468/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
+scipy
+seaborn
 sip==4.19.13
 six==1.15.0
 sklearn==0.0
