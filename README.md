@@ -22,3 +22,7 @@ Model building: Linear Regressing, random Forest regression (Non-Liner Classifie
 Model tuning: Hyperparameter tuning RandomForestRegressor.
 
 Model Deployment: flask and Heroku.
+
+Here is the link where you can access the project live : https://airqualityaqiapp.herokuapp.com/predict
+
+Thank you!
