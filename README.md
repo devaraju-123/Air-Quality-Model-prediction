@@ -23,6 +23,6 @@ Model tuning: Hyperparameter tuning RandomForestRegressor.
 
 Model Deployment: flask and Heroku.
 
-Here is the link where you can access the project live : https://airqualityaqiapp.herokuapp.com/predict
+Here is the link where you can access the project live : https://airqualityaqiapp.herokuapp.com
 
 Thank you!
