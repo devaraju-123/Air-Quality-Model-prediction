@@ -9,7 +9,7 @@ Interpretation annual average climate values
 
 Data Source: https://en.tutiempo.net/climate
 
-Machine Learning pipe line:
+Machine Learning pipeline:
 
 Data Gathering: In this step we can take the data from https://en.tutiempo.net/climate. Tools used : html, Beautiful Soup python library.
 
